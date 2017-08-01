@@ -2,7 +2,7 @@
 
 Thor is WebSocket benchmarking/load generator. There are a lot of benchmarking
 tools for HTTP servers. You've got ab, siege, wrk and more. But all these tools
-only work with plain ol HTTP and have no support for WebSockets - even if they did
+only work with plain old HTTP and have no support for WebSockets - even if they did
 they wouldn't be suitable, as they would be testing short running HTTP requests
 instead of long running HTTP requests with a lot of messaging traffic. Thor
 fixes all of this.
